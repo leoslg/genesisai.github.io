@@ -21,7 +21,7 @@
 title: Genesis AI Solution
 email: "aigenesissolutions@gmail.com"
 description: "Bem vindo a Genesis, onde você se torna independente do seu negócio" >- # this means to ignore newlines until "baseurl:"
-url: "https://leoslg.github.io/genesisai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leoslg.github.io/leoslg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 github_username:  leoslg
 locale: "pt-BR"
